@@ -10,7 +10,7 @@ Installation des logiciels nécessaires
 
 `sudo ./install.sh`
 
-Build la toolchain
+Build la toolchain. ATTENtiON : le procédée est long (entre 20 minutes et 1h30 selon la machine)
 
 `./build.sh`
 
